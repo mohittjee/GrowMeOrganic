@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
-import FormPage from './FormPage';
-import SecondPage from './SecondPage';
+import FormPage from './components/FormPage';
+import SecondPage from './components/SecondPage';
 
 const App: React.FC = () => {
   return (
