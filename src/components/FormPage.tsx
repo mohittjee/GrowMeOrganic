@@ -88,7 +88,7 @@ export default function FormPage() {
               sx={{ mb: 2, backgroundColor:'white' }}
             />
             <Button variant="contained" onClick={handleSubmit} fullWidth sx={{ mt: 2 }}>
-              Submit
+              Submit.
             </Button>
             
           </CardContent>
